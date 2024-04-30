@@ -1,0 +1,6 @@
+/.log
+/_externals
+Scripts/Tests/unit/hashlib/_out
+Scripts/Tests/unit/traplib/_out
+/Temp
+/_out
