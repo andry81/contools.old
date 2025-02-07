@@ -17,8 +17,8 @@ call "%%~dp0__init__.bat" || exit /b
 
 call "%%CONTOOLS_ROOT%%/std/declare_builtins.bat" %%0 %%* || exit /b
 
-set "CALLF_ELEVATE_EXECUTABLE=%CONTOOLS_UTILITIES_BIN_ROOT%/contools/callf.exe"
-set "CALLF_UNELEVATE_EXECUTABLE=%CONTOOLS_UTILITIES_BIN_ROOT%/contools/callf.exe"
+set "CALLF_ELEVATE_EXECUTABLE=%CONTOOLS_UTILS_BIN_ROOT%/contools/callf.exe"
+set "CALLF_UNELEVATE_EXECUTABLE=%CONTOOLS_UTILS_BIN_ROOT%/contools/callf.exe"
 set "CALLF_ELEVATE_BARE_FLAGS="
 
 set "START_BARE_FLAGS="
@@ -38,8 +38,8 @@ if not "%FLAG:~0,1%" == "-" set "FLAG="
 
 if defined FLAG (
   if "%FLAG%" == "-gui" (
-    set "CALLF_ELEVATE_EXECUTABLE=%CONTOOLS_UTILITIES_BIN_ROOT%/contools/callfg.exe"
-    set "CALLF_UNELEVATE_EXECUTABLE=%CONTOOLS_UTILITIES_BIN_ROOT%/contools/callfg.exe"
+    set "CALLF_ELEVATE_EXECUTABLE=%CONTOOLS_UTILS_BIN_ROOT%/contools/callfg.exe"
+    set "CALLF_UNELEVATE_EXECUTABLE=%CONTOOLS_UTILS_BIN_ROOT%/contools/callfg.exe"
     set CALLF_ELEVATE_BARE_FLAGS=%CALLF_ELEVATE_BARE_FLAGS% /no-window
   ) else if "%FLAG%" == "-timeout" (
     set "FLAG_TIMEOUT_SEC=%~2"

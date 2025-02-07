@@ -1232,7 +1232,7 @@ function ReadFileDependents()
   case "$DumpbType" in
     1)
       EvalString="$(
-        "$CONTOOLS_UTILITIES_BIN_ROOT/Microsoft/dumpbin.exe" -dependents "$NativeFilePath" | \
+        "$CONTOOLS_UTILS_BIN_ROOT/Microsoft/dumpbin.exe" -dependents "$NativeFilePath" | \
         InternalDumpbinRead | tr '[:upper:]' '[:lower:]' | \
         { MakeCommandArgumentsFromFile - && echo -n "$RETURN_VALUE"; }
       )"
@@ -1241,7 +1241,7 @@ function ReadFileDependents()
 
     2)
       EvalString="$(
-        "$CONTOOLS_UTILITIES_BIN_ROOT/mingw/bin/objdump.exe" -p "$NativeFilePath" | \
+        "$CONTOOLS_UTILS_BIN_ROOT/mingw/bin/objdump.exe" -p "$NativeFilePath" | \
         InternalObjdumpRead | tr '[:upper:]' '[:lower:]' | \
         { MakeCommandArgumentsFromFile - && echo -n "$RETURN_VALUE"; }
       )"

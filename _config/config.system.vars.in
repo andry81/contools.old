@@ -34,9 +34,6 @@ upath CONTOOLS_TESTLIB_ROOT                     ="%CONTOOLS_ROOT%/testlib"
 
 upath CONTOOLS_TOOL_ADAPTORS_ROOT               ="%CONTOOLS_ROOT%/ToolAdaptors"
 
-upath CONTOOLS_UTILITIES_ROOT                   ="%CONTOOLS_PROJECT_ROOT%/Utilities"
-upath CONTOOLS_UTILITIES_BIN_ROOT               ="%CONTOOLS_UTILITIES_ROOT%/bin"
-
 upath CONTOOLS_TPOLAERT_CECHO_ROOT              ="%CONTOOLS_OLD_PROJECT_EXTERNALS_ROOT%/thomaspolaert-cecho"
 
 # CAUTION:
