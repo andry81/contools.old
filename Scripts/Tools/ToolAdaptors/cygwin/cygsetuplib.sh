@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Script library to support operations with the cygwin setup.ini file.
 
 # Script can be ONLY included by "source" command.

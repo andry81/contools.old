@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Bash script which reads version of cygwin package and prints it.
 # Parse version number in to 4 or 5 numbers:
 #   <MajorVersion>.<MinorVersion>.<PatchNumber>.<Revision1>[.<Revision2>]

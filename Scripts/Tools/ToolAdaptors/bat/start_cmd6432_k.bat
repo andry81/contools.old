@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script tryes to call x64 cmd interpreter under any process mode otherwise
 rem   it calls a cmd interpreter under current process mode

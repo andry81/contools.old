@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script to append string list separated by a character into set of
 rem   variables: MyList[0], MyList[1], .., MyList[N], MyList.SIZE=N.

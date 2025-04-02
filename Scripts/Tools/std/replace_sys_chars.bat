@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script to replace ?, !, %, and = characters in variables by respective
 rem   ?00, ?01, ?02 and ?03 placeholders.

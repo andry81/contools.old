@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script reads and replaces characters in the string to a variable.
 rem   Script additionally reads length of the string and returns it.

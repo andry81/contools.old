@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script to copy (publish) a single build stage directory from multiple
 rem   projects into one output directory.

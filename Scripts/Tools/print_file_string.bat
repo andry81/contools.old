@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script for string lines extraction from a text/binary file by findstr
 rem   utility pattern and/or line number.

@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Set of bash functions to work with perl. Cygwin/Msys/Mingw system required.
 
 # Script can be ONLY included by "source" command.

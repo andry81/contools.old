@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Use callf.exe utility to elevate and change the system date on a moment
 rem   to start an application under not elevated permissions.

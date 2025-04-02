@@ -1,7 +1,5 @@
 #!/bin/bash_entry
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Build scripts component library, implements component functions and variables
 # for the build scripts.
 

@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script detects native Windows cmd.exe.
 rem   Returns 0 if it is, and 1 - if not.

@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script reads standard output from command passed into arguments and counts
 rem   not empty lines into variable STDOUT_LINES.

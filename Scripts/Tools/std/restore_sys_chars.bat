@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script to restore ?, !, %, and = characters in variables from respective
 rem   ?00, ?01, ?02 and ?03 placeholders.

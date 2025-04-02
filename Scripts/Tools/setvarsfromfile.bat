@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script reads text file with variables in format "VARIABLE=VALUE" and
 rem   applies it. You can use all expression types what uses by "set" command

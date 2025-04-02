@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Converts unicode 16-byte string written in hex form to ANSI string by
 rem   simply removing code page character and copies it to %1 variable.

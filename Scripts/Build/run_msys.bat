@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Script checks and prepare Msys environment to run Msys login in it.
 rem Msys parameters reads from "msys.vars".
 

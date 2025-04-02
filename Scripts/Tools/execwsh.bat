@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script calls to Windows Scripting Host (WSH) script.
 rem   Variable "__ARGS__" uses to pass arguments to the WSH interpreter.

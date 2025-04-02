@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Script remounts Cygwin paths in the registry by path read from "cygwin.vars".
 rem To remount Cygwin by this script you should properly set variables
 rem "CYGWIN_PATH" and "CYGWIN_REGKEY_PATH" before.

@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Patch library, implements main functions to automate source patching.
 
 # Script can be ONLY included by "source" command.

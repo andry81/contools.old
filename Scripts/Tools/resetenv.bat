@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script clears all environment variables which are not declared in a target
 rem   text file. Text file has a simple file format with a variable name on

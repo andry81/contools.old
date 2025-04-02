@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script to copy/archive file(s) from a project single build output
 rem   directory into a stage of calling project (build pipeline inside one

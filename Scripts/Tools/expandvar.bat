@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script expands variable %2, store result in variable %1 and returns with
 rem   previous error level.

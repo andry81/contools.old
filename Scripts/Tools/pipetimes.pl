@@ -1,7 +1,5 @@
 #!/bin/perl
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Description
 #   Script indexes standard input stream by line print time, offset from begin
 #   of stream and size of line.

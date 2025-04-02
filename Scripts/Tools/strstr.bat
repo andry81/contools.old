@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script searches substring in string and returns it's offset.
 rem   If substring didn't found in the string, then returns -1.

@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script checks file existence in directory list.
 rem   If success script sets variable FOUND_PATH and returns 0.

@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Bash script for redirecting stdin to both stdout and stderr or one of
 # the auxiliary streams (if first parameter has been set) at a time.
 # Cygwin/Mingw/Msys system required.

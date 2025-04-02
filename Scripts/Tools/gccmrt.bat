@@ -3,7 +3,6 @@
 rem ***************************************************************
 rem Batch file to change GCC runtime library
 rem Coded by Giovanni Bajo <rasky@develer.com>
-rem Modified by Andrey Dibrov <andry@inbox.ru>
 rem Public domain
 rem ***************************************************************
 

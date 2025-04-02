@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script to export common project environment variables into the file to
 rem   import them later in another project in the build pipeline.

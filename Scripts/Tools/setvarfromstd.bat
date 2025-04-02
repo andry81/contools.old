@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script reads standard output to variable STDOUT_VALUE.
 rem   Command "for" ignores empty strings until not empty string appear.

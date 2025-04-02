@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:  Andrey Dibrov (andry at inbox dot ru)
-rem
 rem Description:
 rem   Script prints N first lines from the input stream. If N is not set then all.
 rem

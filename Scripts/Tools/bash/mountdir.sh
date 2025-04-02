@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Bash script which mounts directory in the Cygwin/Msys system.
 # Cygwin/Msys system required.
 

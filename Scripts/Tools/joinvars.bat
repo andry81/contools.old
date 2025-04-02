@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script creates or updates variable consisted from concatenated strings
 rem   joined with passed string. Strings are stored in file, which reads by

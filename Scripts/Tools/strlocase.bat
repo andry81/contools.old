@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script converts ANSI string into lower case string. Return 0 if string is
 rem   not empty and not zero if is empty.

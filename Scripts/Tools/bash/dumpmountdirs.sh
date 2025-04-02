@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Bash script which dumps mounted directories in system.
 # Cygwin/Msys system required.
 

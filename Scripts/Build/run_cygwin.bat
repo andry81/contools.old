@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Script checks and prepare Cygwin environment to run Cygwin login in it.
 rem Cygwin parameters reads from "cygwin.vars".
 

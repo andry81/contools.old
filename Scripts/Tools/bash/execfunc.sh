@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Bash script which executes function by name of bash script and name of
 # function in that script. Cygwin/Mingw/Msys system required.
 

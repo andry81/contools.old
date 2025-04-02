@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Bash script for reading stdin/file to the variable CAT_BUFFER. This is useful
 # if you want to add to stream additional characters, like terminating
 # character to avoid trailing line return characters trucation by bash

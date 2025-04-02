@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script prints substrings concatenated together by split character.
 rem   String can exists as string literal or stores in file.

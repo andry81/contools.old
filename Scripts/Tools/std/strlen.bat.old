@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script reads the length of a string by value or by variable with the
 rem   string and returns it. If string is not passed, then returns 0.

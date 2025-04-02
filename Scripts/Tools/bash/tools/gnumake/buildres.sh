@@ -1,7 +1,5 @@
 #!/bin/bash_entry
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Build scripts resource library, implements resource functions and variables
 # for the build scripts.
 

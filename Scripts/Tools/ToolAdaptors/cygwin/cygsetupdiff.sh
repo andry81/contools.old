@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Script reads the first cygwin setup.ini file and extracts all requested
 # packages including it's dependencies. Then reads the second cygwin setup.ini
 # file and findout which found depencies is not found in that file. Then after

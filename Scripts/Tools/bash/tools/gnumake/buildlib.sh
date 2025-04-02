@@ -1,7 +1,5 @@
 #!/bin/bash_entry
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Core build library, implements main functions for build scripts.
 
 # Script can be ONLY included by "source" command.

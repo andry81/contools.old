@@ -1,5 +1,3 @@
-// Author:   Andrey Dibrov (andry at inbox dot ru)
-
 //SaRF => Search and Replace in Files.
 
 //Script searches in text file by regular expressions and replaces found signatures

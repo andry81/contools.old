@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Bash script for invoking Windows batch scripts. Cygwin/Mingw/Msys system
 # required.
 

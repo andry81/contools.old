@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script tryes to start a command line under x64 cmd interpreter otherwise
 rem   it calls a cmd interpreter for x32 process mode

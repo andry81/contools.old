@@ -1,7 +1,5 @@
 #!/bin/perl
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # SaR => Search and Replace.
 #
 # Perl version required: 5.6.0 or higher (for "@-"/"@+" regexp variables).

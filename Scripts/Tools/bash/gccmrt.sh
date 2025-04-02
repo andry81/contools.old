@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
- 
 # Bash script which copies the Cygwin/Mingw/Msys system "libmsvcr??[d].a" files
 # to "libmsvcr[d].a" files which uses as runtime libraries by default by GCC
 # linker. Cygwin/Mingw/Msys system required.

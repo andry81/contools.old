@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Bash file library, supports common file functions.
 
 # Script can be ONLY included by "source" command.

@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Author:   Andrey Dibrov (andry at inbox dot ru)
-
 # Regular expression library, implements main functions to automate regular expressions.
 
 # Script can be ONLY included by "source" command.

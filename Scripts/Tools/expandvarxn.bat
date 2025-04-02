@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script expands string %* with numeric expression, store result in
 rem   variable EXPANDED_VALUE and returns with previous error level.

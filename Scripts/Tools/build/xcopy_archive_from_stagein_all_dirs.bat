@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script to copy/archive the build stage directories set of a project build
 rem   output (basically the last build stage output of previous project in a

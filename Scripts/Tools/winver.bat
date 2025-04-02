@@ -1,7 +1,5 @@
 @echo off
 
-rem Author:   Andrey Dibrov (andry at inbox dot ru)
-
 rem Description:
 rem   Script sets WINVER_VALUE to string in format:
 rem   <Name>|<PlatformType>|<Version>
