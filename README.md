@@ -7,6 +7,7 @@
 <p align="center">A wide range of scripts for Windows interpreter (cmd.exe) and other
 interpreters such as bash shell (.sh), visual basic (.vbs), python (.py), jscript (.js), perl (.pl) and so on.</p>
 
+<!-- - ->
 <p align="center">
   <a href="https://github.com/andry81-stats/contools.old--gh-stats/commits/master/traffic/views">
     <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/contools.old/badges/traffic/views/all.svg" valign="middle" alt="GitHub views|any|total" />
@@ -24,6 +25,7 @@ interpreters such as bash shell (.sh), visual basic (.vbs), python (.py), jscrip
     <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/contools.old/badges/traffic/clones/unq.svg" valign="middle" alt="GitHub clones|unique per day|total" />
     <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/contools.old/badges/traffic/clones/unq-14d.svg" valign="middle" alt="GitHub clones|unique per day|14d" /></a>
 </p>
+<!-- -->
 
 <p align="center">
   <a href="https://github.com/andry81/contools.old/tree/HEAD/changelog.txt">Changelog</a>
