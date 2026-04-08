@@ -12,7 +12,7 @@ set __CTRL_SETLOCAL=1
 call "%%~dp0__init__/__init__.bat" || exit /b
 call "%%CONTOOLS_TESTLIB_ROOT%%/init.bat" "%%~f0" || exit /b
 
-set __TEST_COUNT_OUTTER=1
+set __TEST_COUNT_OUTER=1
 
 set __STRING__=012345 78901^	-^"'`^?^*^&^|^<^>^(^)
 call :TEST_SEQ1 6 6 15 12 6 -1 14 -1 25
@@ -68,7 +68,7 @@ call :TEST %%8
 set "__CHARS__="
 call :TEST %%9
 
-set /A __TEST_COUNT_OUTTER+=1
+set /A __TEST_COUNT_OUTER+=1
 
 echo.
 
@@ -90,7 +90,7 @@ call :TEST %%3 /i
 set __CHARS__=!
 call :TEST %%4
 
-set /A __TEST_COUNT_OUTTER+=1
+set /A __TEST_COUNT_OUTER+=1
 
 echo.
 
